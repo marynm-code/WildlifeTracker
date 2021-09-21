@@ -1,3 +1,5 @@
+## Author
+- mary muthoni
 ## Description
 
 ```bash
@@ -71,6 +73,7 @@ The applications allow users to do the following:
 
 ## Contact Details
 ```bash
-You can contact me at techconsultants.bree@gmail.com
+You can contact me at muthonim62@gmail.com
+
 ```
 
